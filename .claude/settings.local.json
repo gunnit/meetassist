@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__firecrawl__firecrawl_search",
+      "mcp__context7__resolve-library-id",
+      "mcp__context7__get-library-docs",
+      "Bash(mkdir:*)",
+      "Bash(python:*)",
+      "Bash(pip3 install:*)",
+      "Bash(source:*)",
+      "Bash(pip install:*)",
+      "Bash(curl:*)",
+      "Bash(pkill:*)",
+      "Bash(kill:*)",
+      "Bash(./venv/bin/python -m pip install:*)",
+      "Bash(pip3 show:*)",
+      "Bash(apt:*)",
+      "Bash(apt install:*)",
+      "Bash(ss:*)",
+      "Bash(rm:*)",
+      "Bash(./venv/bin/python run.py)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
